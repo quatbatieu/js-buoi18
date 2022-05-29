@@ -129,7 +129,7 @@ function baitap5() {
     var divResult = document.getElementById("result");
     divResult.style.display = "block";
     divResult.innerHTML = `
-  <p>tổng số âm là ${count2} = tổng số dương là ${count2}</p>
+  <p>tổng số âm là ${count2} = tổng số dương là ${count1}</p>
   `;
   } else {
     var divResult = document.getElementById("result");
